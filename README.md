@@ -1,7 +1,4 @@
-## Olá! Eu sou o Guilherme Schmidt.
-
-- Atualmente, estudo Engenharia de Computação na UTFPR
-- Estudo focado em C, C++ e C#
+## Olá! Eu sou o Guilherme Schmidt. Atualmente, estudo Engenharia de Computação na UTFPR.
 
 <div>
  <a href="https://github.com/Guilherme-Schmidt">
