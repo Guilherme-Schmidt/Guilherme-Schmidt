@@ -14,6 +14,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img align="center" alt="java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     
    <img align="center" alt="adobe1" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
    <img align="center" alt="adobe2" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
@@ -22,4 +23,6 @@
    
 </div><br/>
 
-Apaixonado por tecnologia desde criança, meu principal objetivo profissional é mudar a vida das pessoas através dela! 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Schmidt&size_weight=0.5&count_weight=0.5)
+
+Apaixonado por tecnologia desde criança, meu principal objetivo profissional é mudar a vida das pessoas através dela!
